@@ -10,6 +10,12 @@ SheffJam treasure hunt is a 2D dungeon crawl game where the player can fight ene
 
   * To move - WASD
   * To shoot - F
+  
+## Implementation
+
+  * Code - Built in [Unity](https://unity.com/) and written in C#
+  * Sprites - Created in [Piskel](https://www.piskelapp.com/)
+  * Tileset - Available at [opengameart.org](https://opengameart.org/content/house-tileset-blackguard)
 
 ## Acknowledgements
 
