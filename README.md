@@ -2,7 +2,7 @@
 
 ## Description
 
-SheffJam treasure hunt is a 2D dungeon crawl game where the player can fight enemies and collect treasure. This game was created for SheffJam VI which was a 30-hour Game Jam organised by the Computer Science Society and the University of Sheffield with the brief of "Treasure".
+SheffJam treasure hunt is a 2D dungeon crawl game where the player can fight enemies and collect treasure. This game was created for SheffJam VI which was a 30-hour Game Jam organised by the Computer Science Society at the University of Sheffield with the brief of "Treasure".
 
 ## How to Play
 
